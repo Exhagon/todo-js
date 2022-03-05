@@ -1,6 +1,5 @@
-# Webpack Starter
-Este es el proyecto inicial para crear 
-aplicaciones con webpack.
+# To Do Project
+Este es el proyecto inicial para un To Do List
 ## Notas
 recuerden construir los modulos de Node
 ```
